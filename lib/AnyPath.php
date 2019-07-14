@@ -22,6 +22,11 @@ abstract class AnyPath implements Path
         return $this->path;
     }
 
+    public function path(): string
+    {
+        return $this->path;
+    }
+
     public function __toString(): string
     {
         return $this->path;
