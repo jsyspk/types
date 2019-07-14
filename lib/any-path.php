@@ -4,6 +4,7 @@ declare(strict_types=1);
 namespace J\Types;
 
 use \InvalidArgumentException;
+
 abstract class AnyPath implements Path
 {
     protected $path;
