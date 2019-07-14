@@ -1,5 +1,5 @@
 {
-    "name": "j/fs",
+    "name": "j/types",
     "description": "Filesystem library for php 7+",
     "type": "library",
     "require-dev": {
